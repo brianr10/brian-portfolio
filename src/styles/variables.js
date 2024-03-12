@@ -2,18 +2,18 @@ import { css } from 'styled-components';
 
 const variables = css`
   :root {
-    --dark-navy: #020c1b;
-    --navy: #0a192f;
-    --light-navy: #112240;
-    --lightest-navy: #233554;
+    --dark-navy: #161312; // TODO: Rename variable to smoky-black; This controls the loading screen 
+    --navy: #161312; //#3B3D40; TODO: Rename navy to onyx gray; This controls main background color
+    --light-navy: #5E6166; // TODO: Rename light ot dark gray; Controls the little text boxes.
+    --lightest-navy: #7A0000; // TODO: Find color but this controls the lines by Where I've worked
     --navy-shadow: rgba(2, 12, 27, 0.7);
-    --dark-slate: #495670;
-    --slate: #8892b0;
+    --dark-slate: #7A0000; //TODO: Rename darkslate to dark-red or find a better solution, This controls the slide bar
+    --slate: #E0E0E0; //TODO: Rename slate to <>. This controls the main paragraph text.
     --light-slate: #a8b2d1;
-    --lightest-slate: #ccd6f6;
+    --lightest-slate: #E0E0E0; //TODO: 
     --white: #e6f1ff;
-    --green: #64ffda;
-    --green-tint: rgba(100, 255, 218, 0.1);
+    --green: #CC0000; //TODO: Rename green to dark-red, Handles some of the text in paragraph.
+    --green-tint: rgba(204, 0, 0, 0.64);
     --pink: #f57dff;
     --blue: #57cbff;
 
