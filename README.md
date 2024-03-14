@@ -5,7 +5,7 @@
   Brianrahmoune.com
 </h1>
 <p align="center">
-  My portfolio website built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>. Forked from <a hfref="https://github.com/bchiang7/v4" target="blank">bchiang7/v4</a>.
+  My portfolio website built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>. Forked from <a href="https://github.com/bchiang7/v4" target="blank"> bchiang7/v4 </a>.
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
@@ -15,7 +15,7 @@
 
 ## Attribution
 <p align="center">
-  - The original author of this code is <a href="https://github.com/bchiang7/v4"> Brittany Chiang </a>. Thanks to her open sourcing this I was able to create my own website. If you wish to use this code please give proper attribution to her.
+  The original author of this code is <a href="https://github.com/bchiang7/v4" target="blank"> Brittany Chiang </a>. Thanks to her open sourcing this I was able to create my own website. If you wish to use this code please give proper attribution to her.
 </p>
 
 ## 🎨 Color Reference
