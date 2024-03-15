@@ -15,7 +15,7 @@
 
 ## Attribution
 <p align="center">
-  The original author of this code is <a href="https://github.com/bchiang7/v4" target="blank"> Brittany Chiang </a>. Thanks to her open sourcing this I was able to create my own website. If you wish to use this code please give proper attribution to her.
+  The original author of this code is <a href="https://github.com/bchiang7/v4" target="blank"> Brittany Chiang</a>. Thanks to her open sourcing this I was able to create my own website. If you wish to use this code please give proper attribution to her.
 </p>
 
 ## 🎨 Color Reference
