@@ -92,7 +92,7 @@ const StyledNav = styled.nav`
             transition: var(--transition);
           }
           polygon {
-            fill: var(--navy);
+            fill: var(--onyx-gray);
           }
         }
       }

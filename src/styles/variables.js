@@ -2,13 +2,12 @@ import { css } from 'styled-components';
 
 const variables = css`
   :root {
-    --dark-navy: #161312; // TODO: Rename variable to smoky-black; This controls the loading screen 
-    --navy: #161312; //#3B3D40; TODO: Rename navy to onyx gray; This controls main background color
-    --light-navy: #5E6166; // TODO: Rename light ot dark gray; Controls the little text boxes.
-    --lightest-navy: #7A0000; // TODO: Find color but this controls the lines by Where I've worked
+    --smoky-black: #161312;
+    --onyx-gray: #161312; 
+    --dark-gray: #5E6166; 
+    --dark-red: #7A0000; 
     --navy-shadow: rgba(2, 12, 27, 0.7);
-    --dark-slate: #7A0000; //TODO: Rename darkslate to dark-red or find a better solution, This controls the slide bar
-    --slate: #E0E0E0; //TODO: Rename slate to <>. This controls the main paragraph text.
+    --light-gray: #E0E0E0; //TODO: Rename slate to <>. This controls the main paragraph text.
     --light-slate: #a8b2d1;
     --lightest-slate: #E0E0E0; //TODO: 
     --white: #e6f1ff;
