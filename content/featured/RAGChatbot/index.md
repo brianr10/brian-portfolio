@@ -9,7 +9,8 @@ tech:
   - Python
   - PyTorch
   - ChromaDB
+  - FastAPI
   - LlamaIndex
 ---
 
-I built a RAG chatbot that can provide accurate information about Deep Learning and corresponding the techniques such as supervised learning, unsupervised learning, etc. The chatbot can also provide accurate information about webs security and how to test the security of a website with various security techniques. The chatbot is hosted on a personal server that can be accessed via API calls.
+I built a RAG chatbot that can provide accurate information about Deep Learning, Web Hacking, and other technical information. This chatbot provides accurate and precise information regarding the the aforementioned topics and can cite its sources. This chatbot is hosted on a personal server that can be accessed via API calls using FastAPI.

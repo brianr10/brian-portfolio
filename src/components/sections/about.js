@@ -137,15 +137,15 @@ const About = () => {
             <p>
               Hello! My name is Brian Rahmoune and I enjoy programming and problem solving. My interests
               lie in machine learning, low-level programming with C/C++ and cyber security. I started programming
-              back in college and quickly realized I have found a brand new passion.
+              back in college and quickly realized I had found a new passion.
             </p>
 
             <p>
               Fast-forward to today, and I am currently working at{' '}
               <a href="https://www.lockheedmartin.com/en-us/index.html">Lockheed Martin</a>,{' '}
-              as a software engineer where I got to help push forward the TR3 initiative.
-              At Lockheed Martin, I was able to wear multiple hats and that allowed me to learn
-              embedded programming, fine-tuning neural networks and integrate products from different
+              as a software engineer where I get to help push forward the TR3 initiative.
+              At Lockheed Martin, I am able to wear multiple hats and that allow me to learn different skills
+              ranging from embedded programming, fine-tuning neural networks and integrate multiple products from different
               teams for the F35 simulation.
             </p>
 
@@ -161,7 +161,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/goku.jpg"
+              src="../../images/me.jpeg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

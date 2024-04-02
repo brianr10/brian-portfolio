@@ -13,4 +13,5 @@ company: null
 showInProjects: true
 ---
 
-This is a repository for all of the little coding projects that I do for fun. Something to keep my skills fresh on my mind and do anything that I think is interesting.
+A repository for all of the coding projects that I do for fun and are random. These projects are for me 
+to hone my skills and try out any projects that introduce new technologies.

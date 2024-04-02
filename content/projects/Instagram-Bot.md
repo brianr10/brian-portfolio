@@ -10,4 +10,5 @@ company: 'N/A'
 showInProjects: true
 ---
 
-Built an instagram bot to learn about automation and learning a little about the Selenium framework.
+An instagram bot to learn about automation and learning a little about the Selenium framework. Navigates to instragram using chrome
+web browser and automatically logs into my account using Selenium.

@@ -7,4 +7,4 @@ tech:
   - C-language
 ---
 
-A simple virtual machine with simple instructions. This is to build a foundation of vms and understand how they work a lower level. Eventually the goal is to scale upwards and grow this project into a more sophisticated vm solution.
+A virtual machine with simple instructions was the focus of this project. It allowed me to build foundational knowledge of VMs and understand how they work at a lower level. Eventually, the goal is to scale upwards and grow this project into a more sophisticated VM solution.

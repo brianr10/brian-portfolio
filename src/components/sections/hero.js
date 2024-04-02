@@ -66,7 +66,7 @@ const Hero = () => {
     <>
       <p>
         I’m a software engineer at Lockheed Martin, and I have a passion for programming
-        and creating cool projects. I am enjoy tackling difficult challenges and learning
+        and creating cool projects. I enjoy tackling difficult challenges and learning
         new technologies.
       </p>
     </>
