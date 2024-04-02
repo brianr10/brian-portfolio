@@ -9,8 +9,8 @@ const _ = require('lodash');
 
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions;
-  const postTemplate = path.resolve(`src/templates/post.js`);
-  const tagTemplate = path.resolve('src/templates/tag.js');
+  // const postTemplate = path.resolve(`src/templates/post.js`);
+  // const tagTemplate = path.resolve('src/templates/tag.js');
 
   const result = await graphql(`
     {
@@ -42,6 +42,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   }
 
   // Create post detail pages
+  /*
   const posts = result.data.postsRemark.edges;
 
   posts.forEach(({ node }) => {
@@ -64,6 +65,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       },
     });
   });
+  */
 };
 
 // https://www.gatsbyjs.org/docs/node-apis/#onCreateWebpackConfig
