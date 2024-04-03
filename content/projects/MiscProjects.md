@@ -1,6 +1,6 @@
 ---
 date: '2023-10-13'
-title: 'Miscellaneous Small Coding Projects'
+title: 'Miscellaneous Coding Projects'
 github: 'https://github.com/brianr10/Coding-Practice'
 external: null
 tech:
