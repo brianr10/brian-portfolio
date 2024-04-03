@@ -3,7 +3,7 @@ date: '3'
 title: 'Linux Man Pages Resume'
 cover: './demo.png'
 github: 'https://github.com/brianr10/'
-external: 'https://' <!-- TODO: Add link for man pages linux resume -->
+external: '' <> TODO: Add link for man pages linux resume
 tech:
   - HTML
   - CSS

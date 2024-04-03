@@ -39,7 +39,7 @@ const StyledText = styled.div`
         content: '▹';
         position: absolute;
         left: 0;
-        color: var(--green);
+        color: var(--red);
         font-size: var(--fz-sm);
         line-height: 12px;
       }
@@ -61,7 +61,7 @@ const StyledPic = styled.div`
     position: relative;
     width: 100%;
     border-radius: var(--border-radius);
-    background-color: var(--green);
+    background-color: var(--red);
 
     &:hover,
     &:focus {
@@ -105,7 +105,7 @@ const StyledPic = styled.div`
     }
 
     &:after {
-      border: 2px solid var(--green);
+      border: 2px solid var(--red);
       top: 14px;
       left: 14px;
       z-index: -1;
@@ -136,7 +136,7 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Brian Rahmoune and I enjoy programming and problem solving. My interests
-              lie in machine learning, low-level programming with C/C++ and cyber security. I started programming
+              lie in artificial intelligence and machine learning, low-level programming with C/C++ and cyber security. I started programming
               back in college and quickly realized I had found a new passion.
             </p>
 
@@ -144,8 +144,8 @@ const About = () => {
               Fast-forward to today, and I am currently working at{' '}
               <a href="https://www.lockheedmartin.com/en-us/index.html">Lockheed Martin</a>,{' '}
               as a software engineer where I get to help push forward the TR3 initiative.
-              At Lockheed Martin, I am able to wear multiple hats and that allow me to learn different skills
-              ranging from embedded programming, fine-tuning neural networks and integrate multiple products from different
+              At Lockheed Martin, I am able to wear multiple hats that allow me to learn different skills
+              ranging from embedded programming, fine-tuning neural networks and integrating multiple products from different
               teams for the F35 simulation.
             </p>
 

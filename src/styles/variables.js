@@ -11,9 +11,8 @@ const variables = css`
     --light-slate: #a8b2d1;
     --lightest-slate: #E0E0E0; //TODO: 
     --white: #e6f1ff;
-    --green: #CC0000; //TODO: Rename green to dark-red, Handles some of the text in paragraph.
+    --red: #CC0000;
     --green-tint: rgba(204, 0, 0, 0.64);
-    --pink: #f57dff;
     --blue: #57cbff;
 
     --font-sans: 'Calibre', 'Inter', 'San Francisco', 'SF Pro Text', -apple-system, system-ui,
