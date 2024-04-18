@@ -143,8 +143,8 @@ const About = () => {
             <p>
               Fast-forward to today, and I am currently working at{' '}
               <a href="https://www.lockheedmartin.com/en-us/index.html">Lockheed Martin</a>,{' '}
-              as a software engineer where I get to help push forward the
-              <a href="https://www.f35.com/f35/news-and-features/f35-first-flight-with-TR3.html"> TR3 </a>  
+              as a software engineer where I get to help push forward the{' '} 
+              <a href="https://www.f35.com/f35/news-and-features/f35-first-flight-with-TR3.html">TR3</a>{' '}  
               initiative.
               At Lockheed Martin, I am able to wear multiple hats that allow me to learn different skills
               ranging from embedded programming, fine-tuning neural networks, and integrating multiple products from different
