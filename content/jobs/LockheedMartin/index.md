@@ -3,7 +3,7 @@ date: 'Present'
 title: 'Software Engineer'
 company: 'Lockheed Martin'
 location: 'Fort Worth, Texas'
-range: 'May 2022 - Present'
+range: 'May 2022 - January 2025'
 url: 'https://www.lockheedmartin.com/'
 ---
 

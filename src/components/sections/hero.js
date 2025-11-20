@@ -61,12 +61,12 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Brian Rahmoune.</h2>;
-  const three = <h3 className="big-heading">I am an Engineer.</h3>;
+  // const three = <h3 className="big-heading">I am an Offensive Security Reseacher.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer, and I have a passion for programming
-        and creating innovative projects. I enjoy tackling difficult challenges and learning
+        I’m a offensive security researcher, and I have a passion for programming
+        and finding vulnerabilities. I enjoy tackling difficult challenges and learning
         new technologies.
       </p>
     </>

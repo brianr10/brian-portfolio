@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Bash', 'Linux', 'C/C++', 'JavaScript (ES6+)', 'TypeScript', 'React', 'Node.js'];
+  const skills = ['Python', 'Bash', 'Linux', 'C/C++', 'JavaScript (ES6+)', 'Java', 'React', 'Kotlin'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,20 +135,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brian Rahmoune and I enjoy programming and problem solving. My interests
-              lie in artificial intelligence and machine learning, low-level programming with C/C++ and cyber security. I started programming
+              Hello! My name is Brian Rahmoune and I enjoy vulnerability research and programming. My interests
+              lie in vulnerability research, artificial intelligence and machine learning, and low-level programming with C/C++. I started programming
               back in college and quickly realized I had found a new passion.
             </p>
 
             <p>
-              Fast-forward to today, and I am currently working at{' '}
-              <a href="https://www.lockheedmartin.com/en-us/index.html">Lockheed Martin</a>,{' '}
-              as a software engineer where I get to help push forward the{' '} 
-              <a href="https://www.f35.com/f35/news-and-features/f35-first-flight-with-TR3.html">TR-3</a>{' '}
-              initiative.
-              At Lockheed Martin, I am able to wear multiple hats that allow me to learn different skills
-              ranging from embedded programming, fine-tuning neural networks, and integrating multiple products from different
-              teams for the F35 simulation.
+              Fast-forward to today, and I am currently working at {' '}
+              <a href='https://www.riversideresearch.org/'>Riverside Research</a>,
+              as a Offensive Security Researcher. I get to perform a variety of tasks
+              ranging from red team engagements, to developing Android applications and 
+              performing vulnerability research to find 0-days. I am able to wear multiple hats
+              that allow me to learn and hone different skills.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
