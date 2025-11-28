@@ -1,5 +1,5 @@
 ---
-date: 'Present'
+date: '2025-02-01'
 title: 'Software Engineer'
 company: 'Lockheed Martin'
 location: 'Fort Worth, Texas'
