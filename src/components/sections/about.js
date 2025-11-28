@@ -142,7 +142,7 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I am currently working at {' '}
-              <a href='https://www.riversideresearch.org/'>Riverside Research</a>,
+              <a href="https://www.riversideresearch.org/">Riverside Research</a>,
               as a Offensive Security Researcher. I get to perform a variety of tasks
               ranging from red team engagements, to developing Android applications and 
               performing vulnerability research to find 0-days. I am able to wear multiple hats
