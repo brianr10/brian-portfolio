@@ -2,7 +2,7 @@
 date: 'Present'
 title: 'Offensive Security Researcher'
 company: 'Riverside Research'
-location: 'Lexington, MA'
+location: 'Lexington, Massachusetts'
 range: 'February 2025 - Present'
 url: 'https://www.riversideresearch.org/'
 ---
